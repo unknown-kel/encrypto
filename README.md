@@ -7,7 +7,7 @@ Simple marshal encryption
 
 ```bash
 
-https://github.com/unknown-kel/encrypto
+git clone https://github.com/unknown-kel/encrypto
 
 cd encrypto
 
